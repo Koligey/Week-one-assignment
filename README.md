@@ -1,10 +1,22 @@
-# Week-one-assignment
-By Chemutai Koligey
-The above project was based off of HTML and CSS languages and was about the creation of a webpage to describe the author and what they are about.
-The instructions included:
-1.Input of name.
-2.A brief description of the person using an image.
-3.What the author is about and where they are from.
-https://github.com/Koligey/my-first-webpage/blob/master/my-first-webpage.html
-This is a link to the author's previous work.
-This work was fully done by the author only with reference to the notes sent by Technical mentors at Moringa School
+# Week two assignment
+#### It is a project based on creation of a webpage, 19th April 2019
+#### By Chemutai Koligey
+## Description
+This project is simply a build up of a webpage as part of the course's ways of learning. It simply is an opening to a website and display's its first page. 
+## Setup/Installation Requirements
+Git init
+Git add
+Git commit
+Git push
+THis app fully depends on HTML and CSS languages 
+
+## Known Bugs
+There are no bugs I know of.
+## Technologies Used
+The app was built from CSS and HTML languages fully 
+
+## Support and contact details
+For inquiries please contact chemutaikoligey@gmail.com
+### License
+
+  
